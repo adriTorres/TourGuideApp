@@ -1,0 +1,30 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">166dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="main_margtitle">14dp</dimen>
+    <dimen name="home_info_marg">24dp</dimen>
+    <dimen name="link_padding">24dp</dimen>
+    <dimen name="divider_height">8dp</dimen>
+    <dimen name="grid_image_marg">2dp</dimen>
+    <dimen name="grid_text_marg">4dp</dimen>
+    <dimen name="grid_car_minheight">115dp</dimen>
+    <dimen name="card_radius">4dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="list_marg">10dp</dimen>
+    <dimen name="card_minHeight">88dp</dimen>
+    <dimen name="card_minWidth">118dp</dimen>
+    <dimen name="list_card_image_width">140dp</dimen>
+    <dimen name="list_card_image_height">92dp</dimen>
+    <dimen name="list_card_image_margin">2dp</dimen>
+    <dimen name="list_card_layout_marg">8dp</dimen>
+    <dimen name="list_card_info_size">12sp</dimen>
+    <dimen name="grid_col_width">146dp</dimen>
+    <dimen name="grid_vSpacing">12dp</dimen>
+    <dimen name="grid_hSpacing">12dp</dimen>
+    <dimen name="grid_marg">12dp</dimen>
+    <dimen name="grid_padd">12dp</dimen>
+</resources>
